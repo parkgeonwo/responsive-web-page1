@@ -16,7 +16,7 @@
 
 ### 개발 목표
 
-display:flex / Media Query 를 이용하여 웹사이트 크기에 따라 위치 변화
+display:flex / Media Query 를 이용하여 웹사이트 크기에 따라 반응하는 사이트 <br>
 이미지에 마우스를 올렸을 때 (hover), 이미지에 변화가 생기는 사이트 개발
 
 ### 사용 기술
